@@ -1,0 +1,5 @@
+telethon
+keyboard
+colorama
+pyfiglet
+requests
